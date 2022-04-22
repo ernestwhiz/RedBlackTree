@@ -1,0 +1,33 @@
+This program will involve the creation Red-Black Tree Class.
+
+Recall a Red-Black Tree is a special form of a binary Tree.
+
+Refer to Red–black tree - Wikipedia for details.
+
+The Red-Black Tree will be used to encode the number of word occurrences within a document.
+
+You may select any text document you like to test your code.
+
+You must implement the following class methods;
+
+1.  A method that will allow user input of the text file to load 
+
+2.  A method to read the text file and decompose the file into a list of words
+
+3.  A method to add a word to the tree.
+
+4.  A method to locate a word within the tree and extract the number of occurrences.
+
+5.  A method to allow the user to find a word in the tree
+
+6.  A method to gather stats on the tree...word with maximum number of occurrences, minimum occurrences, average number of occurrences, total number of words, tree depth and any other statistics you can think of.
+
+7.  A method to remove a word from the tree.
+
+8.  A method to save the tree to a file for recall/reuse in JSON format.
+
+You should instantiate your class in a main module for operation.
+
+Please submit your python modules, the text file, the JSON file for the tree.  In addition please submit a screen shot of your application in operation.
+
+Extra Credit - Fully working and demonstrated application will result in awarding of an additional 100 pts.
